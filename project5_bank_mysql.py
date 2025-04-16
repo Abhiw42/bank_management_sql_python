@@ -12,7 +12,7 @@ cur=con.cursor()
 # cur.execute('create database bank')
 # cur.execute("create table bank(acc_no int,name varchar(20),amount int)")
 
-print("Welcome to SkillCircle bank")
+print("Welcome to XYZ bank")
 
 def start():
     print("\nPress 1 if you are New user")
